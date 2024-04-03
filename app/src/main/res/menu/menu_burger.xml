@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+
+    <item
+        android:id="@+id/ligaInggris"
+        android:icon="@drawable/kelasemen"
+        android:title="Liga Inggris" />
+    <item
+        android:id="@+id/ligaSpanyol"
+        android:icon="@drawable/kelasemen"
+        android:title="Liga Spanyol" />
+    <item
+        android:id="@+id/ligaitalia"
+        android:icon="@drawable/kelasemen"
+        android:title="Liga Italia" />
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/profile"
+        android:title="Profile" />
+</menu>
